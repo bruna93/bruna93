@@ -3,8 +3,9 @@
 
 - 🔭 Sou estudante de desenvolvimento Front-end.
 - 🌱 Possui conhecimento em HTML, CSS, SASS, JavaScript e ReactJS, e estou aprendendo TypeScript e NextJS.
-- 📫 Contate-me no e-mail: carvalhomello.dev@gmail.com
 - 😄 Pronomes: ela/dela
+
+##
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruna93&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
