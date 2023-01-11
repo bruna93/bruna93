@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Sou Desenvolvedora Trainee na @autoforce.
+- 🔭 Sou Desenvolvedora Front-end na @autoforce.
 - 🌱 Possuo conhecimento em HTML, CSS, SASS, JavaScript e ReactJS, e estou aprendendo TypeScript e NextJS.
 - 😄 Pronomes: ela/dela
 
